@@ -7,7 +7,7 @@ import MatchdayGuide from './components/MatchdayGuide.jsx'
 
 const App = () => {
   return (
-    <div className="dm-sans">
+    <div>
       <Navbar />
       <Hero />
       <HowItWorks />
