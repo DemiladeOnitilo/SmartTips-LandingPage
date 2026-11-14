@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Space+Grotesk:wght@300..700&display=swap');
 @import "tailwindcss";
 
@@ -10,8 +11,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Space Grotesk", sans-serif;
 }
 
+=======
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
+
+>>>>>>> ec135fafb42a9a289c622efcf5f730cf84475ee8
 .dm-sans {
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ec135fafb42a9a289c622efcf5f730cf84475ee8
