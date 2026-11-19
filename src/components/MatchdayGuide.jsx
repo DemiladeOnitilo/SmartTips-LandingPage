@@ -2,7 +2,7 @@ import { Ball, Rings } from "./Decor.jsx";
 
 const guide = [
   { icon: "⚽", title: "Pick your fixtures", text: "Start with the matches you’re most interested in following today." },
-  { icon: "▤", title: "Review each selection", text: "Check the market, odds and booking code, then decide what fits your own approach." },
+  { icon: "▤", title: "Review each selection", text: "Check the market and odds, then decide what fits your own approach." },
   { icon: "✦", title: "Keep it responsible", text: "Treat predictions as opinions, set a limit and only bet what you can afford to lose." },
 ];
 

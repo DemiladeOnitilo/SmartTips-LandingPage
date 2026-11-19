@@ -2,7 +2,7 @@ import Footer from './components/Footer.jsx'
 import Hero from './components/Hero.jsx'
 import HowItWorks from './components/HowItWorks.jsx'
 import Navbar from './components/Navbar.jsx'
-import Sample from './components/Sample.jsx'
+import Benefits from './components/Benefits.jsx'
 import MatchdayGuide from './components/MatchdayGuide.jsx'
 
 const App = () => {
@@ -11,7 +11,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <HowItWorks />
-      <Sample />
+      <Benefits />
       <MatchdayGuide />
       <Footer />
     </div>

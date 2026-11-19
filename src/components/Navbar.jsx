@@ -3,8 +3,8 @@ import Logo from "../assets/Smartips.png";
 import { scrollToId } from "./scrollTo.js";
 
 const links = [
-  { label: "How it Works", id: "how" },
-  { label: "Sample Code", id: "sample" },
+  { label: "How to Subscribe", id: "how" },
+  { label: "What You Get", id: "benefits" },
   { label: "Matchday Guide", id: "matchday" },
 ];
 
@@ -89,11 +89,11 @@ const Navbar = () => {
             );
           })}
           <a
-            href="#contact"
+            href="#how"
             onClick={(e) => go(e, "how")}
             className="mt-2 inline-flex items-center justify-center gap-2 rounded-xl bg-[#32106D] px-5 py-3 font-extrabold text-white shadow-md shadow-[#32106D]/25 transition hover:-translate-y-0.5 hover:bg-[#240A54] focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-[#00B94F]/40 md:mt-0"
           >
-            Get Started <span aria-hidden="true">→</span>
+            Subscribe <span aria-hidden="true">→</span>
           </a>
         </div>
       </nav>
